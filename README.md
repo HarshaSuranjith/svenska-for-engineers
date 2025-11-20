@@ -1,4 +1,4 @@
-# Svenska för Ingenörs
+# Svenska för Ingenörer
 
 ## innehållsförteckning
 1. Ordklasser och satsstruktur
