@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-    root((Verb: Struktur och Böjning (Lager 2/3)))
+    root((Verb: Struktur och Böjning - Lager 2))
 
         TEMPUS("Tempus (Tidsformer) (L2)")
             PRESENS("Presens (Nutid)")
